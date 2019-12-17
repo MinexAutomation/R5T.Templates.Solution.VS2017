@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "David Coats",
+  "classifications": ["Solution"],
+  "name": "VS2017 Solution File",
+  "description": "Create an empty Visual Studio 2017 solution containing no projects.",
+  "identity": "R5T.Templates.VS2017.Solution",
+  "shortName": "sln2017",
+  "sourceName": "Solution1",
+  "primaryOutputs": [ { "path": "Solution1.sln" } ],
+  "defaultName": "Solution1"
+}
